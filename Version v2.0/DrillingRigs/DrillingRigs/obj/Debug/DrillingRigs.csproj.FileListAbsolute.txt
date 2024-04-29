@@ -1,0 +1,41 @@
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\bin\Debug\Resources\БУ.xlsx
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.exe.config
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.exe
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.pdb
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.AssemblyReference.cache
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.Properties.Resources.resources
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.GenerateResource.cache
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.CoreCompileInputs.cache
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.exe
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.pdb
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test129\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.DrillingRigs_Form.resources
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\bin\Debug\Resources\БУ.xlsx
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\bin\Debug\Documents\514845851.pdf
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\bin\Debug\Documents\754848451.pdf
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.exe.config
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.exe
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.pdb
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.AssemblyReference.cache
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.Docks.resources
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.DrillingRigs_Form.resources
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.Properties.Resources.resources
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.GenerateResource.cache
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.CoreCompileInputs.cache
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.exe
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.pdb
+D:\Производная Практика\Шаблоны\Панкратов\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.PDF_Register.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\bin\Debug\Resources\БУ.xlsx
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\bin\Debug\Documents\514845851.pdf
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\bin\Debug\Documents\754848451.pdf
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.exe.config
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.exe
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\bin\Debug\DrillingRigs.pdb
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.Docks.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.DrillingRigs_Form.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.PDF_Register.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.Properties.Resources.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.exe
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#3\DrillingRigs\DrillingRigs\obj\Debug\DrillingRigs.pdb
